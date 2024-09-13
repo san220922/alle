@@ -4,5 +4,5 @@ Meu nome e alessandra rodrigues alves
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
 
-![descrição do GIF](![image](https://github.com/user-attachments/assets/5bc70386-e90b-4602-aa1d-8fd7df932eae)
+![descrição do GIF](![image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG92ZHY4ZTJsbzNjYjM4ZzNzOXplcGEzYjV0cW52ZmdhY29rMWhjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WPM7EMUGaKkw/giphy.gif)
 )
